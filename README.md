@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sravan chittoor</h1>
 <h3 align="center">Student, Excited to acquire cloud skills, empowering me to innovate, scale, and secure digital solutions for the future of technology.</h3>
+<img align="right" alt="Coding" width="400" height="300" src="https://miro.medium.com/v2/resize:fit:4800/1*bbXoBqEIAIosCEWo3zGYXQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittoorsravan&label=Profile%20views&color=0e75b6&style=flat" alt="chittoorsravan" /> </p>
 
